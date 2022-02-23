@@ -25,6 +25,8 @@
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
+  ## Most Used Language
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvermaking&theme=onedark&layout=compact&hide_border=true)](https://github.com/silvermaking)
   
   
 </div>
