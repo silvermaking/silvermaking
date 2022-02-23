@@ -17,6 +17,7 @@
   - ⚡ Fun fact: ...
   -->
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=silvermaking&show_icons=true&theme=%7Btheme%7D)](https://github.com/silvermaking/github-readme-stats)
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=silvermaking)](https://solved.ac/silvermaking)
 
   ## Tech Stack
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
